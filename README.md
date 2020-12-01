@@ -1,4 +1,4 @@
-# ReminderApp
+# Reminder app
 This is a simple Reminder App based on [Brad Traversy](https://github.com/bradtraversy)'s [Bookmarker App](https://github.com/bradtraversy/bookmarker).
 
 Here's a live [demo](https://remind-me-app.netlify.app/)
